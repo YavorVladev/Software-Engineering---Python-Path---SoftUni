@@ -1,0 +1,17 @@
+# Software Engineering - Python Career Path @ SoftUni
+
+<p align="centre">
+  <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner Softuni"/>
+</p>
+
+Includes repos from the following courses:  
+* Python - Basics (January 2022)
+* Python - Fundamentals (May 2022)
+* Python - Advanced (September 2022)
+
+| Index | Course Curriculum                                                                                             | Certificate
+|------:|:--------------------------------------------------------------------------------------------------------------| :---
+|   01. | [Python Basics Curriculum](https://softuni.bg/courses/programming-basics)                                         | [Python Basics Certificate](https://softuni.bg/certificates/details/131291/f6a89d8e)
+|   02. | [Python Fundamentals Curriculum](https://softuni.bg/courses/programming-fundamentals-csharp-java-js-python)       | [Python Fundamentals Certificate](https://softuni.bg/certificates/details/138872/3e3a9014)
+|   03. | [Python Advanced Curriculum](https://softuni.bg/modules/58/csharp-advanced/1357)                                  | [Python Advanced Certificate](https://softuni.bg/certificates/details/143175/d1a67c47)
+|   04. | [Python OOP Curriculum](https://softuni.bg/trainings/3843/csharp-oop-october-2022)                                | [TBD]
