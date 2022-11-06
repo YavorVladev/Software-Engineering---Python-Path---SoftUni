@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfa2e726-99eb-4ea0-9fec-682d6385898b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/caretaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/caretaker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/caretaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/caretaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/cheetah.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/cheetah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/keeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/keeper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/lion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/lion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/tiger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/tiger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/vet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/vet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/zoo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +34,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H6CfY6ewvVgIhauMn8zdH74cJC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,8 +47,36 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.zoo">
-    <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\food" />
+      <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\beverage" />
+      <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\wild_cat_zoo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Restaurant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Restaurant/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Restaurant/project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-Engineering---Python-Path---SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +84,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/football_team_generator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/animal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/football_team_generator/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software-Engineering---Python-Path---SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/pizza.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="team" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software-Engineering---Python-Path---SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/football_team_generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/football_team_generator/team.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/zoo.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\wild_cat_zoo\zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,8 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.team" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.pizza" />
         <item itemvalue="Python.zoo" />
-        <item itemvalue="Python.animal" />
       </list>
     </recent_temporary>
   </component>
@@ -96,5 +180,16 @@
       <updated>1667596253813</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
