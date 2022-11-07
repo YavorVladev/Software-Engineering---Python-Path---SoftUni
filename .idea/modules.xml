@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Hotel Rooms/.idea/Hotel Rooms.iml" filepath="$PROJECT_DIR$/../Hotel Rooms/.idea/Hotel Rooms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" filepath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" />
     </modules>
   </component>
