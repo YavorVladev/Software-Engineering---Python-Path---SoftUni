@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfa2e726-99eb-4ea0-9fec-682d6385898b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/caretaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/caretaker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/cheetah.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/cheetah.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/keeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/keeper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/lion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/lion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/tiger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/tiger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/vet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/vet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/worker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/wild_cat_zoo/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/dough.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/project/dough.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/pizza.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/project/pizza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/topping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/project/topping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/football_team_generator/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/football_team_generator/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/football_team_generator/team.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +42,37 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Milena/PycharmProjects/Software-Engineering---Python-Path---SoftUni/Python OOP/Encapsulation - Exercise/project"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\project" />
+      <recent name="C:\Users\Milena\PycharmProjects\PizzaMaker\afadfasd" />
+      <recent name="C:\Users\Milena\PycharmProjects\PizzaMaker\project" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\Pizza_Maker\project" />
       <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\food" />
       <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\beverage" />
       <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\wild_cat_zoo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Restaurant" />
+  <component name="RunManager" selected="Python.team (1)">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software-Engineering---Python-Path---SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Restaurant/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Restaurant/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="team (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-Engineering---Python-Path---SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/Pizza_Maker/pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/project/team.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,38 +144,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software-Engineering---Python-Path---SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\wild_cat_zoo\zoo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.team (1)" />
         <item itemvalue="Python.team" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.pizza" />
-        <item itemvalue="Python.zoo" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Milena\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cfa2e726-99eb-4ea0-9fec-682d6385898b" name="Changes" comment="" />

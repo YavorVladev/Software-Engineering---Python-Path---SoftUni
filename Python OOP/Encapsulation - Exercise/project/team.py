@@ -1,6 +1,5 @@
 from player import Player
 
-
 class Team:
     def __init__(self, name: str, rating: int):
         self.__name = name
