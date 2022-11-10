@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfa2e726-99eb-4ea0-9fec-682d6385898b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Photo_album.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Photo_album.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/project.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,48 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Milena/PycharmProjects/Software-Engineering---Python-Path---SoftUni/Python OOP/Encapsulation - Exercise/project&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Milena/PycharmProjects/Software-Engineering---Python-Path---SoftUni/Python OOP/Static and Class Methods - Exercise/Movie_World/project"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Static and Class Methods - Exercise\Movie_World\project" />
       <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\project" />
       <recent name="C:\Users\Milena\PycharmProjects\PizzaMaker\afadfasd" />
       <recent name="C:\Users\Milena\PycharmProjects\PizzaMaker\project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Static and Class Methods - Exercise\Document_Managment\project" />
       <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\Pizza_Maker\project" />
       <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\food" />
       <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\beverage" />
       <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\wild_cat_zoo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Photo_album">
-    <configuration name="Integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software-Engineering---Python-Path---SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Lab/Integers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="Photo_album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-Engineering---Python-Path---SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="gym" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-Engineering---Python-Path---SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +84,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Gym/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Lab/Shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Gym/project/gym.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software-Engineering---Python-Path---SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Document_Managment/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Document_Managment/project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software-Engineering---Python-Path---SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Gym/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Gym/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,18 +140,18 @@
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hotel Rooms" />
+      <module name="Software-Engineering---Python-Path---SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Hotel Rooms/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Document_Managment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Hotel Rooms/project/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Static and Class Methods - Exercise\Document_Managment\project\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="team (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="movie_world (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-Engineering---Python-Path---SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Movie_World/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/project/team.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Movie_World/project/movie_world.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Photo_album" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.Integers" />
-        <item itemvalue="Python.Shop" />
-        <item itemvalue="Python.team (1)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.gym" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.movie_world (1)" />
       </list>
     </recent_temporary>
   </component>
