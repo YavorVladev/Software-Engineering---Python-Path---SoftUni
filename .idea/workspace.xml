@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfa2e726-99eb-4ea0-9fec-682d6385898b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Software-Engineering---Python-Path---SoftUni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/Groups.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/Groups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/Gym/project.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +48,11 @@
       <recent name="C:\Users\Milena\PycharmProjects\PizzaMaker\project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Polymorphism and Abstraction - Exercise\Wild_Farm\project\animals" />
       <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Static and Class Methods - Exercise\Document_Managment\project" />
       <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\Pizza_Maker\project" />
       <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\food" />
       <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\beverage" />
-      <recent name="C:\Users\Milena\PycharmProjects\Software-Engineering---Python-Path---SoftUni\Python OOP\Encapsulation - Exercise\wild_cat_zoo" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Account">

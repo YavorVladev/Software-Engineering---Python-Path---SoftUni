@@ -7,10 +7,9 @@ class Person:
         pass
 
     def __add__(self, other):
-        
+        return f"{self.name}{other.surname}"
 
 
 class Group:
     def __init__(self, name: str, surname: str):
         pass
-
