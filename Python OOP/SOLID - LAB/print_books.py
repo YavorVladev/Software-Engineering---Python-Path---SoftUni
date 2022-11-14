@@ -6,12 +6,14 @@ class Book:
 
 
 class Formatter:
-    def format(self, book: Book) -> str:
+    @staticmethod
+    def format(book: Book) -> str:
         return f"{book.title} is a book written by {book.author} and it's a {book.content}"
 
 
 class MoviePosterPrinter:
-    def format(self, book):
+    @staticmethod
+    def format(book):
         return f"--------\n{book.title}\n-------\n{book.author}\n-------\n{book.content}\n-------\n"
 
 
