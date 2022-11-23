@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cfa2e726-99eb-4ea0-9fec-682d6385898b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/even_parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/even_parameters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +56,8 @@
       <recent name="C:\Users\Milena\PycharmProjects\Restaurant\project\beverage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.even_parameters">
-    <configuration name="emails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bold_italic_underline">
+    <configuration name="bold_italic_underline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-Engineering---Python-Path---SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/SOLID - Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/SOLID - Exercises/emails.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise/bold_italic_underline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bold_italic_underline" />
         <item itemvalue="Python.even_parameters" />
         <item itemvalue="Python.logged" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.number_increment" />
-        <item itemvalue="Python.emails" />
       </list>
     </recent_temporary>
   </component>
