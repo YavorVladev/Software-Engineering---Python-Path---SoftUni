@@ -8,6 +8,7 @@ Includes repos from the following courses:
 * Python - Basics (March 2022)
 * Python - Fundamentals (May 2022)
 * Python - Advanced (September 2022)
+* Python - OOP (October 2022)
 
 | Index | Course Curriculum                                                                                             | Certificate
 |------:|:--------------------------------------------------------------------------------------------------------------| :---
