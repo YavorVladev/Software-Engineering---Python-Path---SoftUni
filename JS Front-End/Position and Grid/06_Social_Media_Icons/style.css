@@ -1,0 +1,49 @@
+ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+a {
+    border: none 1px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    border-radius: 50%;
+    background-color: rgb(170, 165, 165);
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    display: inline-block;
+    font-size: 50px;
+    margin: 10px;
+}
+
+i.fb:hover {
+    color: blue;
+}
+
+i.tw:hover {
+    color: rgb(29, 161, 242);
+}
+
+i.gp:hover {
+    color: rgb(219, 74, 57);
+}
+
+i.in:hover {
+    color: rgb(0, 114, 177);
+}
+
+i.ig:hover {
+    color: rgb(64, 93, 230);
+}
+
+
+
