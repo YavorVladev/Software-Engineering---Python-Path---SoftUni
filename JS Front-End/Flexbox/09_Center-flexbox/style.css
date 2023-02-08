@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 1px 1px 100px 2px #827585;
+}
+
+h1, p{
+    padding: 15px;
+}
