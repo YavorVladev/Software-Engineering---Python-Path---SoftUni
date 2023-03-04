@@ -4,3 +4,5 @@ function rotateArray(arr, rotations) {
     const rotated = arr.slice(steps).concat(arr.slice(0, steps));
     return rotated.join(' ');
 }
+
+rotateArray([51, 47, 32, 61, 21], 2)
