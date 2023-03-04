@@ -1,11 +1,4 @@
 function sumDigits(num) {
-    let sum = 0;
-    while (num > 0) {
-        sum += num % 10;
-        num = Math.floor(num / 10);
-    }
-    return sum;
+    const digits = num.toString().split('').map(Number);
+    return digits.reduce((acc, curr) => acc + curr, 0);
 }
-
-
-sumDigits(245678)
