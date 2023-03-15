@@ -15,3 +15,4 @@ function createDictionary(input) {
     console.log(`Term: ${term} => Definition: ${definition}`);
   });
 }
+
