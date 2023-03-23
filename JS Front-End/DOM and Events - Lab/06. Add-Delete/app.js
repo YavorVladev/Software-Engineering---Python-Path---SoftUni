@@ -17,5 +17,6 @@ function addItem() {
   function deleteHandler(event) {
     const liItem = event.currentTarget.parentElement;
     liItem.remove();
+    
   }
 }
