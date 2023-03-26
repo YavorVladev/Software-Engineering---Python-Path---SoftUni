@@ -14,4 +14,5 @@ function focused() {
         let parentDiv = event.target.parentNode;
         parentDiv.classList.remove('focused');
     }
+    
 }
