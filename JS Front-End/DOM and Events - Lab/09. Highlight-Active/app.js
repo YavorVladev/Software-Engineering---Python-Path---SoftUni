@@ -15,4 +15,5 @@ function focused() {
         parentDiv.classList.remove('focused');
     }
     
+
 }
