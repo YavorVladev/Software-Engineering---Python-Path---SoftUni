@@ -27,11 +27,10 @@ function solve() {
 
   otherDOMSelectors.publishedBtn.addEventListener("click", publishStoryHandler);
 
-  function publishStoryHandler(event) {
+  function publishStoryHandler() {
     const allFieldsHaveValue = Object.values(inputDOMSelectors).every((input) => input.value !== '');
 
     if (!allFieldsHaveValue) {
-      console.log("EMPTY FIELD");
       return;
     }
     const {firstName, lastName, age, title, genre, story} = inputDOMSelectors;
