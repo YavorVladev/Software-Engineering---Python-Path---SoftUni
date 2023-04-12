@@ -14,6 +14,7 @@ function solve() {
         nextBtn: document.getElementById("next-btn"),
         liContainer: document.querySelector(".info-list"),
         confirmContainer: document.querySelector(".confirm-list"),
+        verificationContainer: document.getElementById("verification")
     };
 
     const inputRefData = {
@@ -62,7 +63,39 @@ function solve() {
         continueBtn.addEventListener('click', () => {
 
             const dataRef = editBtn.parentNode;
-            console.log(dataRef);
+            
+            otherDOMSelectors.confirmContainer.appendChild(dataRef);
+
+            editBtn.textContent = "Confirm";
+            continueBtn.textContent = "Cancel";
+
+            editBtn.classList = 'confirm-btn';
+            continueBtn.classList = 'cancel-btn';
+
+            editBtn.addEventListener(`click`, () => {  // Confirm Button
+
+                editBtn.parentNode.remove();
+
+                otherDOMSelectors.verificationContainer.classList.add('reservation-confirmed');
+                otherDOMSelectors.verificationContainer.textContent = "Confirmed.";
+
+                clearAllInputs();
+
+
+            })
+
+            continueBtn.addEventListener(`click`, () => {  // cancel button
+
+                continueBtn.parentNode.remove();
+                otherDOMSelectors.nextBtn.disabled = false;
+
+                otherDOMSelectors.verificationContainer.classList.add('reservation-cancelled');
+                otherDOMSelectors.verificationContainer.textContent = "Cancelled.";
+
+                clearAllInputs();
+
+
+            })
 
         });
 
