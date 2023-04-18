@@ -25,7 +25,7 @@ function sprintReview(args) {
 		const tokens = element.split(':'); // splits the array to get all the needed info
 		let command = tokens[0]; // gets the command 
 
-		if (command === 'Add New') {
+		if (command === 'Add New') {  // checks for the given command and executes whatever its needed for that command.
 			let assignee = tokens[1];
 			let taskId = tokens[2];
 			let title = tokens[3];
