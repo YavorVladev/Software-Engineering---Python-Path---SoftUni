@@ -170,3 +170,4 @@ horseRacing(['Bella|Alexia|Sugar',
 //     console.log(horses.join('->'))
 //     console.log(`The winner is: ${horses.pop()}`)
 // }
+
