@@ -39,4 +39,6 @@ function horseRace(list) {
     }
     console.log(horses.join('->'))
     console.log(`The winner is: ${horses.pop()}`)
+
+    
 }
