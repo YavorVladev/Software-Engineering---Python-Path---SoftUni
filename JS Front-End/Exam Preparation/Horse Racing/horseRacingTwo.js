@@ -41,4 +41,6 @@ function horseRace(list) {
     console.log(`The winner is: ${horses.pop()}`)
 
     
+
+
 }
