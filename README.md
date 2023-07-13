@@ -17,5 +17,6 @@ Includes repos from the following courses:
 |   03. | [Python Advanced Curriculum](https://softuni.bg/modules/74/python-advanced/1382)                                  | [Python Advanced Certificate](https://softuni.bg/certificates/details/143175/d1a67c47)
 |   04. | [Python OOP Curriculum](https://softuni.bg/courses/python-oop)                                                    | [Python OOP Certificate](https://softuni.bg/certificates/details/150502/bf475331)      
 |   05. | [JavaScript HTML & CSS ](https://softuni.bg/courses/python-oop)                                                    | [JavaScript HTML & CSS Certificate](https://softuni.bg/certificates/details/163082/0baba3aa)  
-|   06. | [JavaScript Front-End ](https://softuni.bg/courses/python-oop)                                                    | [JavaScript Front-End Certificate](https://softuni.bg/certificates/details/163082/0baba3aa)  
+|   06. | [JavaScript Front-End ](https://softuni.bg/courses/python-oop)                                                    | [JavaScript Front-End Certificate](https://softuni.bg/certificates/details/170750/c49e9a43)  
+|   07. | [JavaScript Front-End ](https://softuni.bg/courses/python-oop)                                                    | [Python Web Basics Certificate](https://softuni.bg/certificates/details/177919/60b61ea0)  
    
