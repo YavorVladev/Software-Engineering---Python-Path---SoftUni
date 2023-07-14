@@ -9,6 +9,9 @@ Includes repos from the following courses:
 * Python - Fundamentals (May 2022)
 * Python - Advanced (September 2022)
 * Python - OOP (October 2022)
+* HTML & CSS (January 2023)
+* JS Front-End (February 2023)
+* Python Web Basics (May 2023)
 
 | Index | Course Curriculum                                                                                             | Certificate
 |------:|:--------------------------------------------------------------------------------------------------------------| :---
